@@ -29,3 +29,4 @@ Reverse proxy to WSGI
 WSGI of some kind (used waitress last project, I want to try using the same thing as well as another WSGI.
 User based authentication. A lazy implementation might use google/microsoft integrated authentication. 
 Separation of different sites, owners etc. No idea how i'll be able to implement this. Probably a V2 of my setup. V1 will just be basic "everybody gets in." 
+ 
